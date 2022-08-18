@@ -1,0 +1,1 @@
+Uses your height and weight to calculate your body mass index. The program tell you whether you are underweight, normal weight, overweight or obese.
