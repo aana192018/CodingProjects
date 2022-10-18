@@ -1,0 +1,25 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+def pass_hurdle():
+    turn_right()
+    move()
+    turn_right()
+    move()
+def pass_hurdle_afterone():
+    turn_left()
+    move()
+    turn_left()
+    move()
+    pass_hurdle()
+    
+move()
+turn_left()
+move()
+pass_hurdle()
+pass_hurdle_afterone()
+pass_hurdle_afterone()
+pass_hurdle_afterone()
+pass_hurdle_afterone()
+pass_hurdle_afterone()
